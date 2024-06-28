@@ -1,0 +1,9 @@
+(
+  name: "Laptopera",
+  summary: "Classes used in the laptopersa, The Death of Stockhausen",
+  version: "1.0.0",
+  schelp: "Laptopera",
+  dependencies: ["BiLETools"],
+  license: "GPL",
+  copyright: "Charles Hutchins 2011-2024"
+)
